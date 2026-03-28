@@ -1,0 +1,5 @@
+{
+  "name": "AI Product Scene Generator",
+  "description": "An application that uses AI to generate scenes of a product in use. Users upload four product images, provide a prompt, and the AI generates four new images showcasing the product in a real-world context or highlighting its features.",
+  "requestFramePermissions": []
+}
